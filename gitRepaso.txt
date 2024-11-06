@@ -1,5 +1,6 @@
 git add . para añadir el ficher acutal
 git commit -m "Hasierako HTML fitxategia gehituta"
+git push
 
 (PS C:\Users\Igotz\Desktop\PruebaGit> git config --global user.email "igotzvh@gmail.com"     
 PS C:\Users\Igotz\Desktop\PruebaGit> git config --global  user.name "Igotz23    En caso de que no vaya!!!)  
@@ -8,3 +9,7 @@ PS C:\Users\Igotz\Desktop\PruebaGit> git config --global  user.name "Igotz23    
  
 git remote add origin https://github.com/Igotz23/Repaso.git
 git push -u origin master
+
+git add .   o prueba.html cuando hagamos mas cambios
+git commit -m "e añadido un h1"
+git push     no olvidarse de el push
