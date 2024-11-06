@@ -1,0 +1,10 @@
+git add . para añadir el ficher acutal
+git commit -m "Hasierako HTML fitxategia gehituta"
+
+(PS C:\Users\Igotz\Desktop\PruebaGit> git config --global user.email "igotzvh@gmail.com"     
+PS C:\Users\Igotz\Desktop\PruebaGit> git config --global  user.name "Igotz23    En caso de que no vaya!!!)  
+ 
+ 
+ 
+git remote add origin https://github.com/Igotz23/Repaso.git
+git push -u origin master
